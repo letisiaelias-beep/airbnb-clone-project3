@@ -110,4 +110,5 @@ A well-designed booking system reduces friction in the user journey, increases c
 * Company information
 * Social media links
 * Copyright information
+
 Each component will be designed for reusability and consistency across the application.
